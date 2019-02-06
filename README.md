@@ -13,7 +13,7 @@
 
 ## 项目界面
 
-![vue img](https://s2.ax1x.com/2019/02/05/kYQeeS.png)
+[![kYgRr6.md.gif](https://s2.ax1x.com/2019/02/06/kYgRr6.md.gif)](https://imgchr.com/i/kYgRr6)
 
 
 
