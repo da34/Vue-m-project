@@ -13,8 +13,7 @@
 
 ## 项目界面
 
-[![kYgRr6.md.gif](https://s2.ax1x.com/2019/02/06/kYgRr6.md.gif)](https://imgchr.com/i/kYgRr6)
-
+![](https://s2.ax1x.com/2019/02/06/kYgRr6.gif)
 
 
 
